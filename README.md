@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/NarminZakizade/fem-Social-proof-section)
-- Live Site URL: [live site URL](https://narminzakizade.me/fem-Social-proof-section)
+- Live Site URL: [live site URL](https://narminzakizade.me/fem-social-proof-section)
 
 ## My process
 I have used mobile-first approach,therefore styling was first written for mobile screens and later for desktop with media queries.
